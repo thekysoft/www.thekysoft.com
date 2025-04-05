@@ -3,7 +3,6 @@ layout: default
 title: Home
 permalink: /
 ---
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
